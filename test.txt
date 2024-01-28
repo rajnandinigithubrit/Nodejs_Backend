@@ -1,0 +1,7 @@
+/*//step 1st */
+
+//npm init
+//3 imp command 
+//1 - npm i express
+//2 - npm i mongoose  - is connect our node project with mongodb
+//3 - npm i nodemon
